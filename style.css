@@ -24,6 +24,11 @@ a{
     text-decoration: none;
 }
 
+a, .hero > p{
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 
 .mainText{
     font-size: 48px;
