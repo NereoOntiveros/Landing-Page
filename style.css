@@ -95,7 +95,9 @@ ul{
 }
 header{
     display: flex;
-    gap: 50px;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 200px;
     
 }
 .placeholder{
@@ -106,6 +108,18 @@ header{
     align-items: center;
 }
 .hero{
+    width: 850px;
     height: 400px;
-    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 300px;
+}
+.hero button{
+    align-self: flex-start;
+    margin-left: 15px;
+}
+.subtext{
+    padding-left: 15px;
 }
