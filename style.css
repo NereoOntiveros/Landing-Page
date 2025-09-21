@@ -37,6 +37,10 @@ footer > div,button{
     color: #F9FAF8;
     font-weight: 900;
 }
+.placeholder{
+    background: #6D747D;
+    color: #F9FAF8;
+}
 .information h2{
     font-size: 36px;
     font-weight: 900;
