@@ -35,3 +35,15 @@ a, .hero > p{
     color: #F9FAF8;
     font-weight: 900;
 }
+
+.inspiring{
+    background: #E5E7EB;
+}
+
+.inspiring p{
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
+
+}
