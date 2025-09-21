@@ -59,3 +59,7 @@ footer > div,button{
     color: #1F2937;
 
 }
+p span{
+    font-style: normal;
+    font-weight: 900;
+}
