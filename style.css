@@ -85,9 +85,11 @@ footer button{
 
 .navbar{
     display: flex;
+    height: 100px;
     justify-content: space-around;
     align-items: center;
 }
 ul{
-    display: flex;  
+    display: flex;
+    gap: 2.5rem;   
 }
