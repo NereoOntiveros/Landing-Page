@@ -48,6 +48,12 @@ footer > div,button{
     color: #1F2937;
     
 }
+.card{
+    height: 100px;
+    width: 100px;
+    border: 2px solid #3882F6;
+    border-radius: 5px;
+}
 .inspiring{
     background: #E5E7EB;
 }
