@@ -29,7 +29,9 @@ a, .hero > p{
     color: #E5E7EB;
 }
 
-
+button{
+    background: #3882F6;
+}
 .mainText{
     font-size: 48px;
     color: #F9FAF8;
