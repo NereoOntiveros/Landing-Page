@@ -63,3 +63,13 @@ p span{
     font-style: normal;
     font-weight: 900;
 }
+
+button{
+    border-radius: 5px;
+}
+.hero button{
+    border: 1px solid #3882F6;
+}
+footer button{
+    border: 1px solid #E5E7EB;
+}
