@@ -34,7 +34,7 @@ footer > div,button{
     background: #3882F6;
     color: #E5E7EB;
 }
-.mainText{
+.hero .mainText{
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
@@ -95,16 +95,17 @@ ul{
 }
 header{
     display: flex;
-    justify-content: space-between;
+    gap: 50px;
     
 }
 .placeholder{
-    width: 450px;
-    height: 220px;
+    width: 550px;
+    height: 230px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .hero{
     height: 400px;
+    width: 500px;
 }
