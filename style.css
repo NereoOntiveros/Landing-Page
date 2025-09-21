@@ -29,7 +29,7 @@ a, .hero > p{
     color: #E5E7EB;
 }
 
-button{
+footer > div,button{
     background: #3882F6;
 }
 .mainText{
@@ -37,7 +37,12 @@ button{
     color: #F9FAF8;
     font-weight: 900;
 }
-
+.information h2{
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    
+}
 .inspiring{
     background: #E5E7EB;
 }
